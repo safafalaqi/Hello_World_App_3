@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hello World App 3</string>
+    <string name="hello_world_kotlin">Hello! Lets make a signature for your name</string>
+    <string name="Lorem_Ipsum">Lorem ipsum dolor sit amet.</string>
+</resources>
